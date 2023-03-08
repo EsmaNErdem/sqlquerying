@@ -1,0 +1,1 @@
+In this exercise, I had a chance to practice SQL server queries. In this practice, I gained an understanding of table structure, how to retrieve data and manipulate data. Great way deep dive into CRUD. 
